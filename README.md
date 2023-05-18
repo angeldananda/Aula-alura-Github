@@ -6,4 +6,8 @@
 Fernanda te amo
 ```
 
+```
+node app.js
+
+```
 
